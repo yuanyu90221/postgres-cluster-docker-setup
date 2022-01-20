@@ -4,7 +4,9 @@ https://hub.docker.com/r/bitnami/pgpool/
 
 ## usage
 
-use pg-pool to make two postgresql as cluster
+use [repmgr](https://repmgr.org) to make two postgresql as cluster
+
+use pg-pool as proxy
 
 ## structure
 
